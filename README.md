@@ -14,8 +14,11 @@ Start the Application : npm run dev
 API List : 
 
 getAllArtists : http://localhost:5000/artist , method :get
+
 getArtistById : http://localhost:5000/artist/:id method :get
+
 createArtist : http://localhost:5000/artist , method :post 
+
 
 sample Json :
 {
@@ -24,6 +27,7 @@ sample Json :
 }
 
 deleteArtist : http://localhost:5000/artist/:id , method :delete 
+
 
 updateArtist :http://localhost:5000/artist/:id method :patch
 {
